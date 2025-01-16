@@ -62,13 +62,7 @@ graph LR
    pip install -r requirements.txt
    ```
 
-3. **Configure Environment Variables**
-   Create a `.env` file:
-   ```env
-   OPENWEATHER_API_KEY=your_api_key_here
-   ```
-
-4. **Start Ollama Service**
+3000. **Start Ollama Service**
    Ensure Ollama is running on your system
 
 ## 💻 Usage
