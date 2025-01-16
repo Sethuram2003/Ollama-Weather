@@ -92,6 +92,11 @@ The assistant understands natural language queries and can process:
 - Location-specific queries
 - Activity recommendations
 ```
+## 💬 Example Conversations
+
+Here are some example interactions with the agent:
+![Chat_1](chat_1.png)
+*conversation*
 
 ## 🔍 Features Description
 
@@ -114,8 +119,8 @@ The application provides:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Sethuram
